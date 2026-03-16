@@ -71,7 +71,7 @@ Desenvolvimento de páginas responsivas com HTML e CSS.
 
 <p align="center">
 
-<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/YanCarvalhoo/YanCarvalhoo/blob/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
