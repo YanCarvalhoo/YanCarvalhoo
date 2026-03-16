@@ -1,43 +1,92 @@
-<h1 align="center">Olá 👋 Eu sou Yan Carvalho Medeiros</h1>
+<div align="center">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%">
+
+# 👨‍💻 Yan Carvalho Medeiros
+
+### 💻 Software Developer | Computer Science Student
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=26&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Back-End+Developer;Automation+Developer;Always+learning+new+technologies"/>
+
+</div>
+
+---
+
+# 🚀 Sobre mim
+
+🎓 Estudante de **Ciência da Computação**
+💻 Desenvolvedor focado em **Back-end e desenvolvimento de sistemas**
+⚡ Experiência com **automação de processos e manipulação de dados**
+📊 Conhecimento em **banco de dados e SQL**
+
+Sempre buscando evoluir tecnicamente e criar soluções eficientes.
+
+---
+
+# 🛠️ Tecnologias
 
 <p align="center">
-💻 Estudante de Ciência da Computação <br>
-🚀 Desenvolvedor focado em Back-End e Desenvolvimento Web
+
+<img src="https://skillicons.dev/icons?i=java,cs,python,html,css,git,mysql"/>
+
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 📊 Estatísticas do GitHub
 
-- 🎓 Estudante de **Ciência da Computação**
-- 💻 Experiência com **desenvolvimento web e automação**
-- ⚙️ Conhecimento em **C#, SQL, HTML e CSS**
-- 📊 Interesse em **dados, sistemas e otimização de processos**
+<p align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-## 🛠️ Tecnologias
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 
-![C#](https://img.shields.io/badge/C%23-2563eb?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1d4ed8?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 🔥 Projetos
 
-![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+🚀 **AutoBarterX**
+Sistema de trocas automáticas com escalonamento de valor.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+📊 **Automação de Excel**
+Ferramenta para automatizar tarefas em planilhas.
 
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: coloque-seu-link
-- 📧 Email: coloque-seu-email
+🌐 **Projetos Web**
+Desenvolvimento de páginas responsivas com HTML e CSS.
 
 ---
 
-⭐ Sempre buscando aprender mais e desenvolver soluções eficientes.
+# 🧠 Atualmente estudando
+
+📚 Estruturas de Dados
+📚 Desenvolvimento de Sistemas
+📚 Otimização de performance
+📚 Automação de processos
+
+---
+
+# 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+💻 GitHub: https://github.com/YanCarvalhoo
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+
+⭐ Always evolving through technology
+
+</div>
