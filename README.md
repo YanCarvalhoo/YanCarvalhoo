@@ -80,7 +80,9 @@ Desenvolvimento de páginas responsivas com HTML e CSS.
 # 📫 Contato
 
 💻 GitHub: https://github.com/YanCarvalhoo
+
 🧑‍💼 Linkedin: www.linkedin.com/in/yan-carvalho-20200230b
+
 📩 Gmail: devyancarvalho15@gmail.com
 
 
